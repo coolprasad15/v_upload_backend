@@ -1,6 +1,6 @@
 1.  npm init -y
 
-2.  npm i -D nodemon & chnages in package.json
+2.  npm i -D nodemon (chnages in package.json)
 
 Github
 3.  git commit -m "add initial files for backend"
@@ -42,5 +42,17 @@ Github
             *.env
             .env
             .env.*
+
 7.  git commit -m "setup prettier - Part 2"
+
+8.  Database MongoDB Cluster Setup
+        Add new DB and step follow
+        Name database
+        Database access & Network access
+        Database/Cluster for connect with compass and all
+
+9.  .env file
+    PORT and Mongodb
+        PORT=8000
+        MONGODB_URL=mongodb+srv://prasadguhagarkar15:prasad15@cluster0.gtjmpld.mongodb.net (prasad15 is a password)
 
