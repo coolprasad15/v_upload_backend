@@ -57,3 +57,11 @@ Github
         MONGODB_URL=mongodb+srv://prasadguhagarkar15:prasad15@cluster0.gtjmpld.mongodb.net (prasad15 is a password)
 
 10. Connect DB with trycatch condition
+
+11. user & video model files
+
+12. install jwttoken & bcrypt pass
+
+13. access & refresh token key (.env)
+
+14. 
