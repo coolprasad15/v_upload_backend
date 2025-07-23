@@ -56,3 +56,4 @@ Github
         PORT=8000
         MONGODB_URL=mongodb+srv://prasadguhagarkar15:prasad15@cluster0.gtjmpld.mongodb.net (prasad15 is a password)
 
+10. Connect DB with trycatch condition
