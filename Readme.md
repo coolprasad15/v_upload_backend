@@ -60,8 +60,10 @@ Github
 
 11. user & video model files
 
-12. install jwttoken & bcrypt pass
+12. install mongoose-aggregate-paginate-v2, jwttoken & bcrypt pass
 
 13. access & refresh token key (.env)
 
-14. 
+14. install multer & cloudinary
+
+15. multer.middleware.js $ cludinary.js
