@@ -67,3 +67,5 @@ Github
 14. install multer & cloudinary
 
 15. multer.middleware.js $ cludinary.js
+
+16. 
