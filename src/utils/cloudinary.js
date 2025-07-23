@@ -1,4 +1,4 @@
-import {v2 as cloudanary} from "cloudinary";
+import {v2 as cloudinary} from "cloudinary";
 import fs from "fs";
 
 cloudinary.config({ 
@@ -8,7 +8,7 @@ cloudinary.config({
 });
 
 
-const uploadOnCloundinary = async (localFilePath) => {
+export const uploadOnCloundinary = async (localFilePath) => {
     try {
         if(!localFilePath) return null
         //upload the file on cloudinary
