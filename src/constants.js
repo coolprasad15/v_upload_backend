@@ -1,1 +1,1 @@
-export const DB_NAME = "vupload"
+export const DB_NAME = "v_upload"
