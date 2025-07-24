@@ -66,6 +66,13 @@ Github
 
 14. install multer & cloudinary
 
-15. multer.middleware.js $ cludinary.js
+15. multer.middleware.js & cludinary.js
 
-16. 
+16. user.controller.js & user.route.js
+
+
+
+https://console.cloudinary.com/app/c-31db4d351e2a63675f226724482ec8/settings/api-keys
+https://cloud.mongodb.com/v2/6880a3934e790c520ec04c66#/overview
+https://github.com/coolprasad15/v_upload_backend
+https://github.com/hiteshchoudhary/chai-backend/blob/main/src/index.js
