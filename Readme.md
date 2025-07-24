@@ -70,6 +70,19 @@ Github
 
 16. user.controller.js & user.route.js
 
+17. // get user details from frontend
+    // validation - not empty
+    // check if user already exists: username, email
+    // check for images, check for avatar
+    // upload then to clodinary avatar
+    // create user object - create entry in db
+    // remove password and refresh token field from response
+    // check for user create
+    // return res
+
+18. follow the steps
+
+19. 
 
 
 https://console.cloudinary.com/app/c-31db4d351e2a63675f226724482ec8/settings/api-keys
